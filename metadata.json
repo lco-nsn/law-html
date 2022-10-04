@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2022-10-04",
+      "codified-date": "2021-12-20",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.6.2"
+      },
+      "publication": "publication/2022-10-04",
+      "repositories": [
+        {
+          "commit": "23c31b70cfbec343aeebb251cffc02d5651cc02b",
+          "name": "lco-nsn/law-xml"
+        },
+        {
+          "commit": "0c404608a2cb822ab0857c9ff4a3994e2c5c8399",
+          "name": "lco-nsn/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/lco-nsn/law-html",
+      "law-git": "https://github.com/lco-nsn/law.git",
+      "static-assets": "https://github.com/openlawlibrary/law-static-assets",
+      "xml-bulk": "https://github.com/lco-nsn/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "Browse the laws and code of Lac Courte Oreilles",
+    "history-start": "2021-12-19"
+  }
+}
