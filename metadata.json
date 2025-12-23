@@ -1,20 +1,20 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-12-02",
-      "codified-date": "2025-10-28",
+      "build-date": "2025-12-23",
+      "codified-date": "2025-12-09",
       "platform": {
         "reproducible": "true",
-        "version": "2.17.25"
+        "version": "2.18.2"
       },
       "publication": "publication/2025-09-29",
       "repositories": [
         {
-          "commit": "0b52d1914ce2a441ab73329a9cfe6fb989b41b3a",
+          "commit": "79b3828cf5811c180c044c9a93879bf40c4805cc",
           "name": "lco-nsn/law-xml"
         },
         {
-          "commit": "c5e8a91b42bb6c43c6377bc56520e98840f3cc83",
+          "commit": "e0c3923fea8f117ef8999b50a999633d9d47a873",
           "name": "lco-nsn/law-xml-codified"
         }
       ],
