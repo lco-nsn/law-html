@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-01-07",
-      "codified-date": "2022-12-12",
+      "codified-date": "2023-01-09",
       "platform": {
         "reproducible": "true",
         "version": "2.18.5"
@@ -14,7 +14,7 @@
           "name": "lco-nsn/law-xml"
         },
         {
-          "commit": "a38bf5d4603ad0c0562813bdbf1f40c355dfa8fb",
+          "commit": "2fb5968760026e57a9b6211e15117db6851ec139",
           "name": "lco-nsn/law-xml-codified"
         }
       ],
